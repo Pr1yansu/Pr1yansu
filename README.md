@@ -4,7 +4,7 @@ Full-stack developer based in Kolkata, India, building fast, realtime web apps e
 
 🔭 Currently working as a Full-Stack Developer at Runtime Solutions
 
-💻 Recent builds: a job marketplace (JobPort), a personal finance manager (Finova), and a MERN travel/booking platform (SAFARSATHI)
+💻 Recent builds: a Web3 job marketplace with wallet login via Wagmi + Web3Modal (JobPort), a personal finance manager (Finova), and a MERN travel/booking platform (SAFARSATHI)
 
 🌱 Always experimenting with new tools across the stack — Next.js App Router, Drizzle ORM, Convex, and payment integrations (Razorpay)
 
@@ -30,7 +30,7 @@ Full-stack developer based in Kolkata, India, building fast, realtime web apps e
 
 ### 📌 Featured Projects
 
-**[JobPort](https://github.com/Pr1yansu/JobPort)** — Job marketplace built with Next.js 14 and Drizzle on Neon Postgres, with recruiter flows, payments, and a Convex-backed resume builder.
+**[JobPort](https://github.com/Pr1yansu/JobPort)** — Web3 job marketplace built with Next.js 14 and Drizzle on Neon Postgres, with wallet login via Wagmi + Web3Modal, recruiter flows, payments, and a Convex-backed resume builder.
 
 **[SAFARSATHI](https://github.com/Pr1yansu/SAFARSATHI)** — MERN travel and stay booking platform with OAuth, reservations, Razorpay payments, and an admin verification workflow.
 
