@@ -33,14 +33,14 @@
 <tr>
 <td width="50%">
 
-**[🧭 JobPort](https://github.com/Pr1yansu/JobPort)**
+**[🧭 JobPort](https://job-port-mocha.vercel.app/)**
 Web3 job marketplace — Next.js 14, Drizzle ORM on Neon Postgres, Wagmi + Web3Modal wallet login, recruiter flows, payments, Convex-backed resume builder.
 `Next.js` `Drizzle` `Postgres` `Web3`
 
 </td>
 <td width="50%">
 
-**[💰 Finova](https://github.com/Pr1yansu/Finova)**
+**[💰 Finova](https://finova-hazel.vercel.app/)**
 Personal finance manager — Next.js, Prisma, MongoDB. Track accounts, categories, and transactions.
 `Next.js` `Prisma` `MongoDB`
 
@@ -49,14 +49,14 @@ Personal finance manager — Next.js, Prisma, MongoDB. Track accounts, categorie
 <tr>
 <td width="50%">
 
-**[🧳 SAFARSATHI](https://github.com/Pr1yansu/SAFARSATHI)**
+**[🧳 SAFARSATHI](https://safarsathi.vercel.app/)**
 MERN travel & stay booking platform — OAuth, reservations, Razorpay payments, admin verification workflow.
 `React` `Node.js` `MongoDB` `Razorpay`
 
 </td>
 <td width="50%">
 
-**[🌐 Portfolio](https://priyansu-portfolio.vercel.app)**
+**[🌐 Portfolio](https://priyansuchowdhury.vercel.app/)**
 Personal site with a full CI/CD pipeline — GitHub Actions build/lint/test → Docker image → security scan → Vercel deploy.
 `TypeScript` `Docker` `GitHub Actions`
 
